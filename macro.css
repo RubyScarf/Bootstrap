@@ -1,0 +1,29 @@
+.macro {
+    color:red;
+    font-size: 15px;
+    color: red;
+    text-align: center;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px red, 0 0 40px red, 0 0 50px red, 0 0 60px red, 0 0 70px red;
+}
+.economics {
+    color:green;
+    text-align:center;
+     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px green, 0 0 40px green, 0 0 50px green, 0 0 60px green, 0 0 70px green;
+}
+.jue {
+    color:maroon;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 30px;
+    text-align:center;
+}
+.gama {
+    color:darkgreen;
+    font-style:italic;
+    font-family: fantasy;
+}
+img.interactive-image:active {
+    transform: rotate(360deg);
+    width: 300px;
+    height: 300px;
+}
