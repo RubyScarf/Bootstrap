@@ -30,3 +30,12 @@
 .sticky + .content {
   padding-top: 60px;
 }
+
+transition{
+  font-size:100px;
+  color:red;
+}
+
+.display-1:hover{
+  transition:3s
+}
